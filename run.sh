@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World, Raspberry Pi!!!"
+mono HelloWorld.exe
