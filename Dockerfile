@@ -1,4 +1,4 @@
-FROM philipz/rpi-raspbian
+FROM philipz/rpi-raspbian:latest
 MAINTAINER Philpz <philipzheng@gmail.com>
 
 RUN apt-get -qq update
